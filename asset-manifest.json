@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-simple-calculator/static/css/main.666b12fb.chunk.css",
+    "main.js": "/react-simple-calculator/static/js/main.ab805909.chunk.js",
+    "main.js.map": "/react-simple-calculator/static/js/main.ab805909.chunk.js.map",
+    "runtime-main.js": "/react-simple-calculator/static/js/runtime-main.c28dd9b5.js",
+    "runtime-main.js.map": "/react-simple-calculator/static/js/runtime-main.c28dd9b5.js.map",
+    "static/js/2.92b12063.chunk.js": "/react-simple-calculator/static/js/2.92b12063.chunk.js",
+    "static/js/2.92b12063.chunk.js.map": "/react-simple-calculator/static/js/2.92b12063.chunk.js.map",
+    "index.html": "/react-simple-calculator/index.html",
+    "precache-manifest.a2be0592cd34cab9e1f1603c9555ef0c.js": "/react-simple-calculator/precache-manifest.a2be0592cd34cab9e1f1603c9555ef0c.js",
+    "service-worker.js": "/react-simple-calculator/service-worker.js",
+    "static/css/main.666b12fb.chunk.css.map": "/react-simple-calculator/static/css/main.666b12fb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c28dd9b5.js",
+    "static/js/2.92b12063.chunk.js",
+    "static/css/main.666b12fb.chunk.css",
+    "static/js/main.ab805909.chunk.js"
+  ]
+}
